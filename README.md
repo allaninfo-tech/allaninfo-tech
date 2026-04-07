@@ -24,7 +24,7 @@
 
 ## `ABOUT.PROFILE`
 
-> I'm a **Full Stack Developer** based in Kampala, Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
+> I'm a **Full Stack Developer** based in Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
 
 | | |
 |---|---|
