@@ -1,7 +1,11 @@
 <div align="center">
 
+<!-- TYPING SVG ANIMATION (AUTO - uses denvercoder1 service) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2DDC72&center=true&vCenter=true&width=600&lines=ALLAN+NUWAMANYA;FULL+STACK+DEVELOPER;AGENTIC+AI+BUILDER;ALWAYS+SHIPPING)](https://git.io/typing-svg)
+
 ![Status](https://img.shields.io/badge/SYS%3AONLINE-●%20PROFILE%20v2.0-2ddc72?style=for-the-badge&labelColor=0c1410&color=2ddc72)
 ![Location](https://img.shields.io/badge/📍%20KAMPALA-UGANDA%20🌍-1e3828?style=for-the-badge&labelColor=0c1410&color=1e3828)
+![Profile Views](https://komarev.com/ghpvc/?username=allan-nuwamanya&color=2ddc72&style=flat-square&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -35,6 +39,7 @@
 [![Twitter / X](https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c1410)](https://twitter.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ddc72?style=for-the-badge&logoColor=white&labelColor=0c1410)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1410)](mailto:allan.info.comp@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-2ddc72?style=for-the-badge&logo=read-the-docs&logoColor=black)](https://link-to-your-resume.pdf)
 
 </div>
 
@@ -83,6 +88,31 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0c1410?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/Figma-0c1410?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-0c1410?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+## `📊 GITHUB.INSIGHTS`
+
+<div align="center">
+
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-nuwamanya&show_icons=true&theme=radical&bg_color=0c1410&title_color=2ddc72&icon_color=2ddc72&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-nuwamanya&layout=compact&theme=radical&bg_color=0c1410&title_color=2ddc72&text_color=ffffff)
+
+</div>
+
+<!-- CONTRIBUTION SNAKE (AUTO - requires GitHub Action workflow) -->
+<!-- See setup: https://github.com/Platane/snk -->
+![snake gif](https://raw.githubusercontent.com/allan-nuwamanya/allan-nuwamanya/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## `✨ RANDOM.DEV.QUOTE`
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0c1410&text_color=2ddc72&border_color=2ddc72)
+
+</div>
 
 ---
 
