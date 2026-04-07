@@ -26,6 +26,17 @@
 | **HOW I THINK** | I leverage **agentic AI workflows** and large language models to automate complex pipelines and build systems that adapt. |
 | **MOTTO**       | ***Ship fast. Learn always. Build forever.*** |
 
+## CONNECT.NETWORK`
+https://www.linkedin.com/in/allan-n-6025143b1/
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1410)](https://www.linkedin.com/in/allan-n-6025143b1)
+[![Twitter / X](https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c1410)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ddc72?style=for-the-badge&logoColor=white&labelColor=0c1410)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1410)](mailto:allan.info.comp@gmail.com)
+
+</div>
+
 ## TECH.STACK`
 
 **FRONTEND**
