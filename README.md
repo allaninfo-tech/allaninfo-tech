@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/🚀%20ALWAYS%20SHIPPING-1e3828?style=flat-square&labelColor=0c1410&color=1e3828)
 
 </div>
-##ABOUT.PROFILE`
+## ABOUT.PROFILE`
 
 > I'm a **Full Stack Developer** based in Kampala, Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
 
@@ -27,7 +27,7 @@
 | **MOTTO**       | ***Ship fast. Learn always. Build forever.*** |
 
 ## CONNECT.NETWORK`
-https://www.linkedin.com/in/allan-n-6025143b1/
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1410)](https://www.linkedin.com/in/allan-n-6025143b1)
