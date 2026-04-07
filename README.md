@@ -16,17 +16,18 @@
 ![](https://img.shields.io/badge/🚀%20ALWAYS%20SHIPPING-1e3828?style=flat-square&labelColor=0c1410&color=1e3828)
 
 </div>
+
 ## `ABOUT.PROFILE`
 
 > I'm a **Full Stack Developer** based in Kampala, Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
 
 | | |
-|---|-------------|
-| **WHAT I BUILD**| End-to-end Software products — web Applications, Mobile Apps, AI # ML. |
+|---|---|
+| **WHAT I BUILD** | End-to-end software products — web applications, mobile apps, AI/ML. |
 | **HOW I THINK** | I leverage **agentic AI workflows** and large language models to automate complex pipelines and build systems that adapt. |
-| **MOTTO**       | ***Ship fast. Learn always. Build forever.*** |
+| **MOTTO** | ***Ship fast. Learn always. Build forever.*** |
 
-## CONNECT.NETWORK`
+## `CONNECT.NETWORK`
 
 <div align="center">
 
@@ -37,7 +38,7 @@
 
 </div>
 
-## TECH.STACK`
+## `TECH.STACK`
 
 **FRONTEND**
 
@@ -82,8 +83,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0c1410?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/Figma-0c1410?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-0c1410?style=flat-square&logo=postman&logoColor=FF6C37)
-
-
 
 ---
 
