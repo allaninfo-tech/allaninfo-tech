@@ -8,7 +8,6 @@
 # ALLAN NUWAMANYA
 
 ### `FULL STACK DEVELOPER · SOFTWARE ENGINEER`
-
 <br/>
 
 ![](https://img.shields.io/badge/⚡%20FULL%20STACK-2ddc72?style=flat-square&labelColor=0c1410&color=2ddc72)
@@ -17,22 +16,17 @@
 ![](https://img.shields.io/badge/🚀%20ALWAYS%20SHIPPING-1e3828?style=flat-square&labelColor=0c1410&color=1e3828)
 
 </div>
-
----
-
-## `// ABOUT.PROFILE`
+##ABOUT.PROFILE`
 
 > I'm a **Full Stack Developer** based in Kampala, Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
 
 | | |
-|---|---|
-| **WHAT I BUILD** | End-to-end web products — from robust **backend APIs** to polished, performant frontends that users love to use. |
+|---|-------------|
+| **WHAT I BUILD**| End-to-end Software products — web Applications, Mobile Apps, AI # ML. |
 | **HOW I THINK** | I leverage **agentic AI workflows** and large language models to automate complex pipelines and build systems that adapt. |
-| **MOTTO** | ***Ship fast. Learn always. Build forever.*** |
+| **MOTTO**       | ***Ship fast. Learn always. Build forever.*** |
 
----
-
-## `// TECH.STACK`
+## TECH.STACK`
 
 **FRONTEND**
 
@@ -78,32 +72,7 @@
 ![Figma](https://img.shields.io/badge/Figma-0c1410?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-0c1410?style=flat-square&logo=postman&logoColor=FF6C37)
 
----
 
-## `// GITHUB.METRICS`
-
-<div align="center">
-
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allannuwamanya&show_icons=true&theme=chartreuse-dark&bg_color=080d0b&border_color=1e3828&title_color=2ddc72&icon_color=2ddc72&text_color=90b098&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allannuwamanya&layout=compact&theme=chartreuse-dark&bg_color=080d0b&border_color=1e3828&title_color=2ddc72&text_color=90b098)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=allannuwamanya&theme=dark&background=080d0b&border=1e3828&ring=2ddc72&fire=2ddc72&currStreakLabel=2ddc72&sideLabels=90b098&currStreakNum=c8d8c0&sideNums=c8d8c0)
-
-</div>
-
----
-
-## `// CONNECT.NETWORK`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1410)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter / X](https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c1410)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ddc72?style=for-the-badge&logoColor=white&labelColor=0c1410)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1410)](mailto:YOUR_EMAIL)
-
-</div>
 
 ---
 
