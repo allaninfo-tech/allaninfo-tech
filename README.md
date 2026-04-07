@@ -9,7 +9,84 @@
 
 <br/>
 
-# ALLAN NUWAMANYA
+<p align="center">
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes bounceAndFreeze {
+        0% { transform: translateY(0px); fill: #2ddc72; }
+        5% { transform: translateY(-8px); fill: #2ddc72; }
+        10% { transform: translateY(0px); fill: #2ddc72; }
+        15% { transform: translateY(-5px); fill: #2ddc72; }
+        20% { transform: translateY(0px); fill: #2ddc72; }
+        25% { transform: translateY(-10px); fill: #2ddc72; }
+        30% { transform: translateY(0px); fill: #2ddc72; }
+        35% { transform: translateY(-3px); fill: #2ddc72; }
+        40% { transform: translateY(0px); fill: #2ddc72; }
+        /* freeze from 40% to 55% */
+        40%, 55% { transform: translateY(0px); fill: #2ddc72; }
+        /* glow pulse from 55% to 80% */
+        60% { fill: #aaffaa; filter: url(#glow); transform: translateY(0px); }
+        70% { fill: #2ddc72; filter: none; transform: translateY(0px); }
+        80% { fill: #aaffaa; filter: url(#glow); transform: translateY(0px); }
+        /* return to normal */
+        85%, 100% { transform: translateY(0px); fill: #2ddc72; filter: none; }
+      }
+
+      /* individual letter delays to create wave effect */
+      .letter { animation: bounceAndFreeze 7s ease-in-out infinite; }
+      .l1 { animation-delay: 0.0s; }
+      .l2 { animation-delay: 0.1s; }
+      .l3 { animation-delay: 0.2s; }
+      .l4 { animation-delay: 0.3s; }
+      .l5 { animation-delay: 0.4s; }
+      .l6 { animation-delay: 0.5s; }
+      .l7 { animation-delay: 0.6s; }
+      .l8 { animation-delay: 0.7s; }
+      .l9 { animation-delay: 0.8s; }
+      .l10 { animation-delay: 0.9s; }
+      .l11 { animation-delay: 1.0s; }
+      .l12 { animation-delay: 1.1s; }
+      .l13 { animation-delay: 1.2s; }
+      .l14 { animation-delay: 1.3s; }
+      .l15 { animation-delay: 1.4s; }
+      .l16 { animation-delay: 1.5s; }
+
+      text {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 44px;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+    </style>
+    <defs>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="100%" fill="#0c1410" rx="10" />
+    <text x="50%" y="50%" fill="#2ddc72">
+      <tspan class="letter l1" x="140" y="60">A</tspan>
+      <tspan class="letter l2" x="170" y="60">L</tspan>
+      <tspan class="letter l3" x="200" y="60">L</tspan>
+      <tspan class="letter l4" x="230" y="60">A</tspan>
+      <tspan class="letter l5" x="260" y="60">N</tspan>
+      <tspan class="letter l6" x="310" y="60">N</tspan>
+      <tspan class="letter l7" x="340" y="60">U</tspan>
+      <tspan class="letter l8" x="370" y="60">W</tspan>
+      <tspan class="letter l9" x="400" y="60">A</tspan>
+      <tspan class="letter l10" x="430" y="60">M</tspan>
+      <tspan class="letter l11" x="460" y="60">A</tspan>
+      <tspan class="letter l12" x="490" y="60">N</tspan>
+      <tspan class="letter l13" x="520" y="60">Y</tspan>
+      <tspan class="letter l14" x="550" y="60">A</tspan>
+    </text>
+  </svg>
+</p>
 
 ### `FULL STACK DEVELOPER · SOFTWARE ENGINEER`
 <br/>
@@ -88,21 +165,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0c1410?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/Figma-0c1410?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-0c1410?style=flat-square&logo=postman&logoColor=FF6C37)
-
----
-
-## `📊 GITHUB.INSIGHTS`
-
-<div align="center">
-
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-nuwamanya&show_icons=true&theme=radical&bg_color=0c1410&title_color=2ddc72&icon_color=2ddc72&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-nuwamanya&layout=compact&theme=radical&bg_color=0c1410&title_color=2ddc72&text_color=ffffff)
-
-</div>
-
-<!-- CONTRIBUTION SNAKE (AUTO - requires GitHub Action workflow) -->
-<!-- See setup: https://github.com/Platane/snk -->
-![snake gif](https://raw.githubusercontent.com/allan-nuwamanya/allan-nuwamanya/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
