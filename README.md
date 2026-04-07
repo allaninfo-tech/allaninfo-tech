@@ -92,19 +92,6 @@
 
 ---
 
-## `📊 GITHUB.INSIGHTS`
-
-<div align="center">
-
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-nuwamanya&show_icons=true&theme=radical&bg_color=0c1410&title_color=2ddc72&icon_color=2ddc72&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-nuwamanya&layout=compact&theme=radical&bg_color=0c1410&title_color=2ddc72&text_color=ffffff)
-
-</div>
-
-<!-- OPTIONAL: Contribution snake (requires GitHub Action) -->
-<!-- ![snake gif](https://raw.githubusercontent.com/allan-nuwamanya/allan-nuwamanya/output/github-contribution-grid-snake-dark.svg) -->
-
----
 
 ## `✨ RANDOM.DEV.QUOTE`
 
