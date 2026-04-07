@@ -9,31 +9,31 @@
 
 <br/>
 
+<!-- FIXED ANIMATED NAME SVG -->
 <p align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg">
     <style>
-      @keyframes bounceAndFreeze {
-        0% { transform: translateY(0px); fill: #2ddc72; }
-        5% { transform: translateY(-8px); fill: #2ddc72; }
-        10% { transform: translateY(0px); fill: #2ddc72; }
-        15% { transform: translateY(-5px); fill: #2ddc72; }
-        20% { transform: translateY(0px); fill: #2ddc72; }
-        25% { transform: translateY(-10px); fill: #2ddc72; }
-        30% { transform: translateY(0px); fill: #2ddc72; }
-        35% { transform: translateY(-3px); fill: #2ddc72; }
-        40% { transform: translateY(0px); fill: #2ddc72; }
-        /* freeze from 40% to 55% */
-        40%, 55% { transform: translateY(0px); fill: #2ddc72; }
-        /* glow pulse from 55% to 80% */
-        60% { fill: #aaffaa; filter: url(#glow); transform: translateY(0px); }
-        70% { fill: #2ddc72; filter: none; transform: translateY(0px); }
-        80% { fill: #aaffaa; filter: url(#glow); transform: translateY(0px); }
-        /* return to normal */
-        85%, 100% { transform: translateY(0px); fill: #2ddc72; filter: none; }
+      @keyframes bounceWave {
+        0%, 100% { transform: translateY(0); }
+        15% { transform: translateY(-12px); }
+        30% { transform: translateY(0); }
+        45% { transform: translateY(-6px); }
+        60% { transform: translateY(0); }
+        75% { transform: translateY(-3px); }
+        90% { transform: translateY(0); }
       }
-
-      /* individual letter delays to create wave effect */
-      .letter { animation: bounceAndFreeze 7s ease-in-out infinite; }
+      @keyframes glowPulse {
+        0%, 100% { fill: #2ddc72; filter: none; }
+        50% { fill: #aaffaa; filter: url(#glow); }
+      }
+      .letter {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 48px;
+        fill: #2ddc72;
+        animation: bounceWave 6s ease-in-out infinite;
+      }
+      /* individual letter delays */
       .l1 { animation-delay: 0.0s; }
       .l2 { animation-delay: 0.1s; }
       .l3 { animation-delay: 0.2s; }
@@ -49,41 +49,39 @@
       .l13 { animation-delay: 1.2s; }
       .l14 { animation-delay: 1.3s; }
       .l15 { animation-delay: 1.4s; }
-      .l16 { animation-delay: 1.5s; }
-
-      text {
-        font-family: 'Fira Code', 'Courier New', monospace;
-        font-weight: bold;
-        font-size: 44px;
-        dominant-baseline: middle;
-        text-anchor: middle;
+      /* glow effect on the whole group after the wave */
+      .glow-group {
+        animation: glowPulse 3s ease-in-out infinite;
+        animation-delay: 4s;
       }
     </style>
     <defs>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur" />
         <feMerge>
+          <feMergeNode in="blur" />
           <feMergeNode in="blur" />
           <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
     </defs>
-    <rect width="100%" height="100%" fill="#0c1410" rx="10" />
-    <text x="50%" y="50%" fill="#2ddc72">
-      <tspan class="letter l1" x="140" y="60">A</tspan>
-      <tspan class="letter l2" x="170" y="60">L</tspan>
-      <tspan class="letter l3" x="200" y="60">L</tspan>
-      <tspan class="letter l4" x="230" y="60">A</tspan>
-      <tspan class="letter l5" x="260" y="60">N</tspan>
-      <tspan class="letter l6" x="310" y="60">N</tspan>
-      <tspan class="letter l7" x="340" y="60">U</tspan>
-      <tspan class="letter l8" x="370" y="60">W</tspan>
-      <tspan class="letter l9" x="400" y="60">A</tspan>
-      <tspan class="letter l10" x="430" y="60">M</tspan>
-      <tspan class="letter l11" x="460" y="60">A</tspan>
-      <tspan class="letter l12" x="490" y="60">N</tspan>
-      <tspan class="letter l13" x="520" y="60">Y</tspan>
-      <tspan class="letter l14" x="550" y="60">A</tspan>
+    <rect width="100%" height="100%" fill="#0c1410" rx="8" />
+    <text x="50%" y="55" text-anchor="middle" dominant-baseline="middle">
+      <tspan class="letter l1" x="350" y="55">A</tspan>
+      <tspan class="letter l2" x="378" y="55">L</tspan>
+      <tspan class="letter l3" x="400" y="55">L</tspan>
+      <tspan class="letter l4" x="422" y="55">A</tspan>
+      <tspan class="letter l5" x="448" y="55">N</tspan>
+      <tspan class="letter l6" x="478" y="55">&nbsp;</tspan>
+      <tspan class="letter l7" x="498" y="55">N</tspan>
+      <tspan class="letter l8" x="528" y="55">U</tspan>
+      <tspan class="letter l9" x="558" y="55">W</tspan>
+      <tspan class="letter l10" x="592" y="55">A</tspan>
+      <tspan class="letter l11" x="618" y="55">M</tspan>
+      <tspan class="letter l12" x="648" y="55">A</tspan>
+      <tspan class="letter l13" x="672" y="55">N</tspan>
+      <tspan class="letter l14" x="698" y="55">Y</tspan>
+      <tspan class="letter l15" x="728" y="55">A</tspan>
     </text>
   </svg>
 </p>
@@ -167,7 +165,6 @@
 ![Postman](https://img.shields.io/badge/Postman-0c1410?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
-
 ## `✨ RANDOM.DEV.QUOTE`
 
 <div align="center">
