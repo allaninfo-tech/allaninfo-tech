@@ -2,7 +2,7 @@
 
 ## `ABOUT.PROFILE`
 
-> I'm a **Software Engineer** based in Uganda — obsessed with building scalable systems and crafting elegant user interfaces. I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
+> I'm a **Software Engineer** based in Uganda — obsessed with building scalable systems and crafting elegant software architectures . I ship fast, learn constantly, and build things that last. Always open to collaborations, freelance work, and meaningful open source contributions.
 
 | | |
 |---|---|
