@@ -42,39 +42,6 @@ I specialize in **end-to-end product development** across:
 
 ---
 
-### **VOICEBOX.UG** – AI Voice Studio
-*Open-source voice I/O platform running 100% locally*
-
-- **What:** Clone voices, generate speech, transcribe audio — all on your machine
-- **Tech:** Tauri (Rust) • React • FastAPI • PyTorch
-- **Models:** 7 TTS engines (Qwen, Kokoro, Chatterbox, TADA)
-- **Languages:** 23+ including Swahili, Amharic, Yoruba
-- **Features:** Voice cloning, MCP agent integration, local privacy
-
-🔗 [View Repository](https://github.com/allaninfo-tech/voicebox.ug) | [Website](https://voicebox.sh)
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:** React • TypeScript • Next.js • Vite • Tailwind CSS • Radix UI  
-**Backend:** Node.js • FastAPI • PostgreSQL • Supabase • Firebase  
-**AI/ML:** PyTorch • NLP • LLMs • Voice Models • Agents  
-**Desktop:** Tauri • Rust  
-**Data:** SQLite • JSON • GeoJSON • Datasets
-
----
-
-## 📊 What I'm Into
-
-- Building **AI systems for language & voice**
-- Creating **datasets for African languages**
-- Shipping **MVP → production** at velocity
-- **Agentic AI workflows** for automation
-- Open-source that moves the needle
-
----
-
 ## 🌍 Based In
 
 **Kampala, Uganda** — Always shipping. Always learning.
@@ -84,8 +51,8 @@ I specialize in **end-to-end product development** across:
 ## 📬 Let's Connect
 
 - 🐦 Twitter: [@allaninfo_tech](https://twitter.com) *(coming soon)*
-- 💼 LinkedIn: [linkedin.com/in/allaninfo](https://linkedin.com) *(coming soon)*
-- 📧 Email: [Get in touch](mailto:hello@allaninfo.tech)
+- 💼 LinkedIn: [linkedin.com/in/allaninfo]([https://linkedin.com](https://www.linkedin.com/in/allan-n-6025143b1/))
+- 📧 Email: [Get in touch](mailto:hello@allan.info.tech@gmail.com)
 - 🤝 Open to: Collaborations, mentorship, African tech initiatives
 
 ---
