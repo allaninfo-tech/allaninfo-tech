@@ -2,7 +2,7 @@
 
 Software Engineer building AI/ML systems and scalable infrastructure for African markets.
 
-**Work:** AI and ML systems • Data platforms•web and Mobile application• 
+**Work:** AI and ML systems • Data platforms • web and Mobile application• 
 
 
 **Based in:** Kampala, Uganda
