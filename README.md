@@ -2,11 +2,8 @@
 
 Software Engineer building AI/ML systems and scalable infrastructure for African markets.
 
-**Work:** Full-stack development (React, TypeScript, FastAPI) • AI systems • Data platforms
+**Work:** AI and ML systems • Data platforms•web and Mobile application• 
 
-**Projects:**
-- [ASCEND](https://github.com/allaninfo-tech/ascendv2) – Campus employment platform using QR verification & WebRTC
-- [Open Data Uganda](https://github.com/allaninfo-tech/open-data-uganda) – Curated Ugandan datasets (agriculture, language, health)
 
 **Based in:** Kampala, Uganda
 
