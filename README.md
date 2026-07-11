@@ -6,22 +6,22 @@
   <img src="https://img.shields.io/github/followers/allaninfo-tech?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge&logo=handshake" alt="Open to Work"/>
 </p>
-
----
-
-### About Me
-I build **AI/ML systems**, **data engineering**, and **scalable web & mobile apps** for a global audience. Open-source enthusiast passionate about clean architecture and solving real-world problems.
-
-### Tech Stack
+<hr>
+<h3>About Me</h3>
+I build <b>AI/ML systems</b>, <b>data engineering</b>, and <b>scalable web & mobile apps</b> for a global audience. Open-source enthusiast passionate about clean architecture and solving real-world problems.
+<hr>
+<h3>Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,py,fastapi,tailwind,postgres,mongodb,docker,git,aws,gcp,vercel,cloudflare&perline=8" />
 </p>
-### GitHub Analytics
+<hr>
+<h3>GitHub Analytics</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allaninfo-tech&theme=github_dark" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allaninfo-tech&background=0d1117&stroke=f7a41d&ring=f7a41d&fire=f7a41d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=f7a41d&sideLabels=f7a41d&dates=8b949e&border=30363d&hide_border=true" width="49%" />
 </p>
-### Connect
+<hr>
+<h3>Connect</h3>
 <p align="center">
   <a href="mailto:allan.info.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/allan-n-6025143b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
