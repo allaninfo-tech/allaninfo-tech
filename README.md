@@ -35,5 +35,3 @@ I build **AI/ML systems**, **data platforms**, and **scalable web & mobile appli
   <a href="https://github.com/allaninfo-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-<p align="center">⚡ Building the future, one commit at a time.</p>
