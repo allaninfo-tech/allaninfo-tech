@@ -10,7 +10,7 @@
 
 ---
 ### About Me
-I build **AI/ML systems**, **data platforms**, and **scalable web & mobile applications** for a global market. Passionate about open source, system architecture, and turning complex problems into elegant solutions.
+I build **AI/ML systems**, **data platforms**, and **scalable web & mobile apps** for a global audience. Open-source enthusiast passionate about clean architecture and solving real-world problems.
 
 ### Tech Stack
 <p align="center">
