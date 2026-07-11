@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge&logo=handshake" alt="Open to Work"/>
 </p>
 
+---
+
 ### About Me
 I build **AI/ML systems**, **data engineering**, and **scalable web & mobile apps** for a global audience. Open-source enthusiast passionate about clean architecture and solving real-world problems.
 
