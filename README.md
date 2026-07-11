@@ -19,13 +19,17 @@ I build **AI/ML systems**, **data platforms**, and **scalable web & mobile appli
 
 ### GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allaninfo-tech&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=f7a41d&text_color=c9d1d9&icon_color=f7a41d&border_color=30363d&border_radius=10&include_all_commits=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allaninfo-tech&background=0d1117&stroke=f7a41d&ring=f7a41d&fire=f7a41d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=f7a41d&sideLabels=f7a41d&dates=8b949e&border=30363d&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allaninfo-tech&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allaninfo-tech&layout=compact&bg_color=0d1117&title_color=f7a41d&text_color=c9d1d9&border_color=30363d&border_radius=10&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=allaninfo-tech&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allaninfo-tech&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allaninfo-tech&theme=github_dark&utcOffset=3" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allaninfo-tech&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allaninfo-tech&theme=github_dark" width="49%" />
 </p>
 
 ### Connect
