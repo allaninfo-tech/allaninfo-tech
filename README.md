@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F7A41D&center=true&vCenter=true&random=false&width=435&lines=Allan+Nuwamanya;Software+Engineer;AI+%2F+ML+Builder;Open+Source+Lover" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/allaninfo-tech?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/allaninfo-tech?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge&logo=handshake" alt="Open to Work"/>
-</p>
+
 <hr>
 <h3>About Me</h3>
 I build <b>AI/ML systems</b>, <b>data engineering</b>, and <b>scalable web & mobile apps</b> for a global audience. Open-source enthusiast passionate about clean architecture and solving real-world problems.
